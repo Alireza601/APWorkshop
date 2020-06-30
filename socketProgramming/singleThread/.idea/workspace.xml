@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3354cd9a-66e8-46b6-bbae-4a79484ee044" name="Default Changelist" comment="" />
+    <list default="true" id="3354cd9a-66e8-46b6-bbae-4a79484ee044" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/singleThread/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/singleThread/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/singleThread/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/singleThread/Server.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1drS1JHb3HglKvcIkgoDQYZ9mCc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -67,11 +75,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593181502780</updated>
-      <workItem from="1593181504167" duration="6289000" />
+      <workItem from="1593181504167" duration="9648000" />
+      <workItem from="1593352062621" duration="78000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
